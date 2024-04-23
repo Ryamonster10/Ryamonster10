@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Ryamonster10
-- 👀 I’m interested in coding, I like C, and it's varients.
-- 🌱 I’m currently learning how to manage non deiban based linux distros.
-- 📫 How to reach me... uhhh.... discord?
+i hate fighting with git
